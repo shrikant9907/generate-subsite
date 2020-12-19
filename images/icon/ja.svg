@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="300" viewBox="0 0 300 300">
+  <defs>
+    <clipPath id="clip-Japan">
+      <rect width="300" height="300"/>
+    </clipPath>
+  </defs>
+  <g id="Japan" clip-path="url(#clip-Japan)">
+    <g id="_003-japan" data-name="003-japan">
+      <circle id="Ellipse_2" data-name="Ellipse 2" cx="150" cy="150" r="150" fill="#f0f0f0"/>
+      <circle id="Ellipse_3" data-name="Ellipse 3" cx="80.756" cy="80.756" r="80.756" transform="translate(69.244 69.244)" fill="#d80027"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="300" viewBox="0 0 300 300">
+  <defs>
+    <clipPath id="clip-Taiwan">
+      <rect width="300" height="300"/>
+    </clipPath>
+  </defs>
+  <g id="Taiwan" clip-path="url(#clip-Taiwan)">
+    <g id="_005-taiwan" data-name="005-taiwan">
+      <path id="Path_57" data-name="Path 57" d="M300,150A150,150,0,0,1,0,150L150,0A150,150,0,0,1,300,150Z" fill="#d80027"/>
+      <path id="Path_58" data-name="Path 58" d="M150,150V0A150,150,0,0,0,0,150Z" fill="#0052b4"/>
+      <path id="Path_59" data-name="Path 59" d="M159.245,119.683,140.926,128.3l9.755,17.742-19.892-3.806-2.521,20.1-13.855-14.78-13.856,14.78-2.52-20.1-19.893,3.805L87.9,128.3l-18.319-8.617L87.9,111.067,78.143,93.325,98.035,97.13l2.521-20.1,13.856,14.78,13.856-14.78,2.521,20.1,19.893-3.806-9.755,17.743Z" transform="translate(-28.81 -31.897)" fill="#f0f0f0"/>
+      <circle id="Ellipse_5" data-name="Ellipse 5" cx="27.922" cy="27.922" r="27.922" transform="translate(57.683 59.861)" fill="#0052b4"/>
+      <path id="Path_60" data-name="Path 60" d="M135.581,154.185a14.878,14.878,0,1,1,14.878-14.878A14.895,14.895,0,0,1,135.581,154.185Z" transform="translate(-49.979 -51.521)" fill="#f0f0f0"/>
+    </g>
+  </g>
+</svg>

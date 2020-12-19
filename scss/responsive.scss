@@ -1,0 +1,225 @@
+$blackColor: #000000;
+$NunitoSan: "Nunito Sans", Sans-serif;
+$RockSalt: "Rock Salt", Sans-serif;
+$lightPink: #FFEEFB;
+
+// Responsive Ui
+// .site-footer iframe {
+    // height: 204px;
+// }
+
+@media all and (max-width: 1367px){
+	.step-form-ui {
+        max-width: 900px;
+    }
+
+    // .site-footer iframe {
+        // height: 201px;
+    // }
+
+    .site-footer .footer-img {
+        height: 200px;
+        width: auto;
+        max-width: unset !important;
+    }
+} 
+
+// tablet 
+@media (min-width: 1600px)
+{
+    footer .container {
+        max-width: 1600px;
+    }
+    .site-footer iframe {
+    max-width: 100%;
+    height: 240px;
+    }
+    .site-footer.landing iframe {
+    height: 284px;
+<<<<<<< HEAD
+}
+=======
+    }
+>>>>>>> 588eff54b42ecd553a6c44c1fb93a8fe4ad7ff40
+}
+@media only screen and (max-width: 1180px) and (min-width: 992px)  {
+    .site-footer iframe{
+        max-width: 100%;
+        height: 142px;
+    }
+}
+@media only screen and (max-width: 991px) and (min-width: 768px)  {
+    .site-footer iframe{
+        max-width: 100%;
+        height: 101px;
+    }
+    footer .foot_sec1 {
+    display: none;
+}
+}
+
+// Tablet View
+@media all and (max-width: 1024px){   
+    .site-footer.landing .footer-img {
+        height: auto;
+        width: 100%;
+    }   
+    .site-footer.landing iframe{
+        height:296px;
+    }
+}
+@media all and (max-width: 768px){
+ 
+.site-footer.landing iframe{
+        height:216px;
+    }
+.common-section {
+    .main-heading-ui {
+        font-size: 28px;
+    }
+}
+@media all and (max-width: 767px){
+     .site-footer.landing .footer-img {
+        width: auto;
+        height: 200px;
+    }   
+    .site-footer.landing iframe{
+        height:200px;
+    }
+}
+.section-description {
+    font-size: 16px;
+}
+
+// Home Banner
+.section-banner {
+    .banner-heading {
+        font-size: 90px;
+    }
+
+    .banner-description {
+        font-size: 21px;
+    }
+
+    .section-bg-video {
+        position: absolute;
+        top: 0;
+        left: -11%;
+        right: 0;
+        height: 100%;
+    }
+}
+    
+// Card Listing
+.section-cardicons, 
+.section-cardlisting {
+	.card {
+		.numbers {
+            font-size: 50px;
+            line-height: 80px;
+		}
+	}
+}
+
+}
+
+// Mobile
+@media all and (max-width: 480px){
+    .main-heading-ui {
+        font-size: 26px;
+        line-height: 1.6em;
+        letter-spacing: -0.4px;
+    }
+    
+    .section-description {
+        font-size: 15px;
+    }
+    
+    // Home Banner
+    .section-banner {
+        min-height: 690px;
+        display: flex;
+        align-items: center;
+
+        .banner-heading {
+            font-size: 58px;
+            line-height: 70px;
+        }
+    
+        .banner-description {
+            font-size: 21px;
+        }
+    
+        .section-bg-video {
+            left: calc(-50% - 50vw);
+        }
+    }
+        
+    // Card Listing
+    .section-cardicons, 
+    .section-cardlisting {
+        .card {
+            .numbers {
+                font-size: 55px;
+                line-height: 70px;
+            }
+
+            .card-icon {
+                height: 50px;
+                width: 50px;
+                font-size: 26px;
+                padding: 4px;
+            }
+
+            .section-description {
+                font-size: 14px;
+            }
+
+            .description {
+                font-size: 13px;
+            }
+        }
+    }
+
+    .accordion_design1 .card .card-header h2 {
+        font-size: 16px;
+        font-weight: 600;
+    }
+
+.slick-slide img {
+    display: inline-block;
+}
+
+.preview-top-bar {
+    .btn {
+        font-size: 14px;
+        padding: 14px 10px;
+        line-height: 14px;
+    }
+
+    .f30 {
+        font-size: 20px;
+        vertical-align: middle;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
+    
+}
+
+
+@media screen and (min-width: 801px){
+.br-dt { display:block; }
+.br-tb, .br-mb { display:none; }
+}
+
+@media screen and (max-width: 800px){
+.br-tb { display:block; }
+.br-dt, .br-mb { display:none; }
+}
+
+@media screen and (max-width: 650px){
+.br-mb { display:block; }
+.br-tb, .br-dt { display: none; }
+}

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="300" viewBox="0 0 300 300">
+  <defs>
+    <clipPath id="clip-China">
+      <rect width="300" height="300"/>
+    </clipPath>
+  </defs>
+  <g id="China" clip-path="url(#clip-China)">
+    <g id="_004-china" data-name="004-china" transform="translate(49 -141)">
+      <circle id="Ellipse_4" data-name="Ellipse 4" cx="150" cy="150" r="150" transform="translate(-49 141)" fill="#d80027"/>
+      <g id="Group_5" data-name="Group 5" transform="translate(-21.754 208.324)">
+        <path id="Path_52" data-name="Path 52" d="M52.344,296.8l12.949,39.844h41.895L73.32,361.312,86.27,401.155,52.344,376.546,18.418,401.155l13.008-39.844L-2.5,336.644H39.395Z" transform="translate(2.5 -272.835)" fill="#ffda44"/>
+        <path id="Path_53" data-name="Path 53" d="M236.157,508.474l-9.9-12.187-14.648,5.684,8.5-13.184-9.9-12.246,15.176,4.043L233.93,467.4l.82,15.7,15.234,4.043-14.707,5.625Z" transform="translate(-85.571 -343.474)" fill="#ffda44"/>
+        <path id="Path_54" data-name="Path 54" d="M282.345,448.716l4.688-15L274.2,424.634l15.7-.234,4.629-15,5.1,14.883,15.7-.176-12.6,9.375,5.039,14.883-12.832-9.082Z" transform="translate(-112.071 -319.459)" fill="#ffda44"/>
+        <path id="Path_55" data-name="Path 55" d="M307.687,326.333l-6.914,14.121,11.25,10.957L296.5,349.184l-6.914,14.063-2.7-15.469L271.3,345.552l13.945-7.324-2.7-15.527,11.25,10.957Z" transform="translate(-110.87 -283.559)" fill="#ffda44"/>
+        <path id="Path_56" data-name="Path 56" d="M236.443,255.9l-1.172,15.645,14.59,5.918-15.293,3.75-1.113,15.7-8.262-13.359-15.293,3.75,10.137-12.012-8.32-13.3,14.59,5.918Z" transform="translate(-85.447 -255.9)" fill="#ffda44"/>
+      </g>
+    </g>
+  </g>
+</svg>

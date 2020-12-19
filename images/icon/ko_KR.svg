@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="300" viewBox="0 0 300 300">
+  <defs>
+    <clipPath id="clip-Korea">
+      <rect width="300" height="300"/>
+    </clipPath>
+  </defs>
+  <g id="Korea" clip-path="url(#clip-Korea)">
+    <g id="_002-south-korea" data-name="002-south-korea">
+      <circle id="Ellipse_1" data-name="Ellipse 1" cx="150" cy="150" r="150" fill="#f0f0f0"/>
+      <path id="Path_50" data-name="Path 50" d="M271.279,219.118c0,13.04-23.353,45.641-52.161,45.641s-52.161-32.6-52.161-45.641a52.161,52.161,0,1,1,104.322,0Z" transform="translate(-69.154 -69.154)" fill="#d80027"/>
+      <path id="Path_51" data-name="Path 51" d="M271.279,256a52.161,52.161,0,0,1-104.322,0" transform="translate(-69.154 -106.036)" fill="#0052b4"/>
+      <rect id="Rectangle_5" data-name="Rectangle 5" width="19.56" height="13.04" transform="translate(205.288 196.069) rotate(-45)"/>
+      <rect id="Rectangle_6" data-name="Rectangle 6" width="19.56" height="13.04" transform="translate(182.233 219.123) rotate(-45)"/>
+      <rect id="Rectangle_7" data-name="Rectangle 7" width="19.56" height="13.04" transform="translate(232.954 223.726) rotate(-45)"/>
+      <rect id="Rectangle_8" data-name="Rectangle 8" width="19.56" height="13.04" transform="translate(209.899 246.784) rotate(-45)"/>
+      <rect id="Rectangle_9" data-name="Rectangle 9" width="19.56" height="13.04" transform="translate(219.12 209.899) rotate(-45)"/>
+      <rect id="Rectangle_10" data-name="Rectangle 10" width="19.56" height="13.04" transform="translate(196.072 232.953) rotate(-45)"/>
+      <rect id="Rectangle_11" data-name="Rectangle 11" width="52.161" height="13.04" transform="translate(232.959 103.856) rotate(-135)"/>
+      <rect id="Rectangle_12" data-name="Rectangle 12" width="19.56" height="13.04" transform="translate(196.074 94.64) rotate(-135)"/>
+      <rect id="Rectangle_13" data-name="Rectangle 13" width="19.56" height="13.04" transform="translate(219.124 117.691) rotate(-135)"/>
+      <rect id="Rectangle_14" data-name="Rectangle 14" width="19.56" height="13.04" transform="translate(223.725 66.978) rotate(-135)"/>
+      <rect id="Rectangle_15" data-name="Rectangle 15" width="19.56" height="13.04" transform="translate(246.787 90.03) rotate(-135)"/>
+      <rect id="Rectangle_16" data-name="Rectangle 16" width="52.161" height="13.04" transform="translate(53.145 209.902) rotate(45)"/>
+      <rect id="Rectangle_17" data-name="Rectangle 17" width="19.56" height="13.04" transform="translate(90.026 219.118) rotate(45)"/>
+      <rect id="Rectangle_18" data-name="Rectangle 18" width="19.56" height="13.04" transform="translate(66.975 196.069) rotate(45)"/>
+      <rect id="Rectangle_19" data-name="Rectangle 19" width="52.161" height="13.04" transform="translate(80.807 182.237) rotate(45)"/>
+      <rect id="Rectangle_20" data-name="Rectangle 20" width="52.161" height="13.04" transform="translate(90.027 53.144) rotate(135)"/>
+      <rect id="Rectangle_21" data-name="Rectangle 21" width="52.161" height="13.04" transform="translate(103.854 66.972) rotate(135)"/>
+      <rect id="Rectangle_22" data-name="Rectangle 22" width="52.161" height="13.04" transform="translate(117.694 80.809) rotate(135)"/>
+    </g>
+  </g>
+</svg>
